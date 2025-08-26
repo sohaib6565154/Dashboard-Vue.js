@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "poppins";
+  src: url("~@/assests/fonts/poppins/poppins-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  font-family: "poppins", sans-serif;
+}
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box
+}
